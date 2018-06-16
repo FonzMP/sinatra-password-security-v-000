@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 gem "sinatra"
 gem "activerecord"
-gem "sinatra-activerecord"
+gem "sinatra-activerecord", "5.1"
 gem "rake"
 gem "bcrypt"
 gem "rspec"
